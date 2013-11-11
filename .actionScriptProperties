@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<actionScriptProperties analytics="false" mainApplicationPath="FootballPrimaGame.as" projectUUID="ca716e1a-dcf9-461b-b136-c3d7b0286ce8" version="10">
+<actionScriptProperties analytics="false" mainApplicationPath="BigHeadFootballGame.as" projectUUID="ca716e1a-dcf9-461b-b136-c3d7b0286ce8" version="10">
   <compiler additionalCompilerArguments="-locale en_US" autoRSLOrdering="false" copyDependentFiles="false" flexSDK="Flex 4.6.0" fteInMXComponents="false" generateAccessible="true" htmlExpressInstall="true" htmlGenerate="true" htmlHistoryManagement="true" htmlPlayerVersionCheck="true" includeNetmonSwc="false" outputFolderPath="bin-debug" removeUnusedRSL="true" sourceFolderPath="src" strict="true" targetPlayerVersion="0.0.0" useApolloConfig="false" useDebugRSLSwfs="true" verifyDigests="true" warn="true">
     <compilerSourcePath>
       <compilerSourcePathEntry kind="1" linkType="1" path="lib"/>
@@ -30,14 +30,14 @@
           <libraryPathEntry kind="3" linkType="1" path="${PROJECT_FRAMEWORKS}/libs/automation_agent.swc" useDefaultLinkType="false"/>
         </excludedEntries>
       </libraryPathEntry>
-      <libraryPathEntry kind="3" linkType="1" path="fla/FutbolPrima.swc" useDefaultLinkType="false"/>
       <libraryPathEntry kind="1" linkType="1" path="swc"/>
+      <libraryPathEntry kind="3" linkType="1" path="fla/FutbolPrima.swc" useDefaultLinkType="false"/>
     </libraryPath>
     <sourceAttachmentPath/>
   </compiler>
   <applications>
     <application path="Preloader.as"/>
-    <application path="FootballPrimaGame.as"/>
+    <application path="BigHeadFootballGame.as"/>
   </applications>
   <modules/>
   <buildCSSFiles/>
